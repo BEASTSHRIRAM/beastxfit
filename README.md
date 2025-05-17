@@ -47,7 +47,7 @@ mvn spring-boot:run
 
 4. Open your browser and navigate to:
 ```
-http://localhost:8080
+(https://beastxfit-2.onrender.com)
 ```
 
 ## Usage
